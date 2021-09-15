@@ -1,3 +1,13 @@
+.idea/
+pkg/
+bin/*
+log/*
+conf/*.conf
+bin/
+*.tar.gz
+demo_data.txt
+*_test.go
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
