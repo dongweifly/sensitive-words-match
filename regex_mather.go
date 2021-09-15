@@ -1,1 +1,1 @@
-package sensitive_words_filter
+package sensitive_words_match

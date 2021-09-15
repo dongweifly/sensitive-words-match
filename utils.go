@@ -1,4 +1,4 @@
-package sensitive_words_filter
+package sensitive_words_match
 
 func isASCIISpace(b byte) bool {
 	return b == ' ' || b == '\t' || b == '\n' || b == '\r'
