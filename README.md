@@ -1,1 +1,1 @@
-# sensitive-words-filter
+# sensitive-words-match
