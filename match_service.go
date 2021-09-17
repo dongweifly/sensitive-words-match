@@ -49,7 +49,9 @@ func (m *MatchService) Build(words []string) {
 	}
 
 	if len(regexpList) > 0 {
-		//todo: 暂不支持
+		matcher := NewRegexpMatcher()
+		matcher.Build(regexpList)
+		m.matchers[REGEXP] = matcher
 	}
 }
 
