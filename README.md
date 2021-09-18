@@ -17,6 +17,12 @@ go get https://github.com/dongweifly/sensitive-words-match
 ### Usage
 
 ```go
+import (
+	"fmt"
+	match "github.com/dongweifly/sensitive-words-match"
+)
+
+func main() {
 	service := match.NewMatchService()
 	service.Build([]string{
 		"fuck",
