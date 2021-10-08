@@ -40,6 +40,8 @@ func main() {
 }
 ```
 
+[一个简单的，开箱即用的API服务](https://github.com/dongweifly/sensitive-words-filter-service)
+
 ## RoadMap
 
 
