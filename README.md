@@ -11,7 +11,7 @@
 ### Installation
 
 ```sh 
-go get https://github.com/dongweifly/sensitive-words-match
+go get -u https://github.com/dongweifly/sensitive-words-match
 ```
 
 ### Usage
